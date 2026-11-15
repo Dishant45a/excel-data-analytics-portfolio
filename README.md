@@ -159,8 +159,3 @@ These projects were created to develop and demonstrate practical Excel skills us
 
 The collection progresses from Excel formulas and reference-based calculations to interactive reporting, dashboards, scenario analysis, and optimization.
 
-## Author
-
-**Rishav Garg**
-
-Data Analytics • Microsoft Excel • SQL • Business Intelligence
